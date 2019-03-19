@@ -1,2 +1,2 @@
 Infinity Portal
-Link: https://s-gunalan.github.io/InfinityPortal_EAI/
+Link: https://mindtree-eai-practice.github.io/infinity-portal/
